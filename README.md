@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peterdaniel000
 - 👀 I’m interested in ... codind
-- 🌱 I’m currently learning ... java, javascript, phyton
+- 🌱 I’m currently learning ... java,c , rust
 - 💞️ I’m looking to collaborate on ... slack 
 - 📫 How to reach me ... through my email
 
